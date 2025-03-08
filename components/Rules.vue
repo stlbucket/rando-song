@@ -1,5 +1,5 @@
 <template>
-  <pre>
+  <pre class="flex text-wrap">
     As an MtG player, I have mostly 20-sided dice so I adapted Liam's idea to 20 sides 
     and assigned a colored die to each category.  This results in all keys listed (heh heh).  
     I also made the tempos a bit more granular which I think makes it a little more 

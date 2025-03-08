@@ -15,7 +15,6 @@
         }
       ]"
       :rows="songParameters"
-      
     ></UTable>
   </div>
 </template>
